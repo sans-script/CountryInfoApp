@@ -38,6 +38,8 @@ The project is divided into two parts:
 
 This project was built with `node v22.5.1`
 
+Both `backend/` and `frontend/` have a `.env.example`. Copy each one to `.env` before running (`cp .env.example .env`); the values in them are public API URLs and local ports, nothing secret.
+
 ### Backend Setup
 
 1. **Clone the Repository**
